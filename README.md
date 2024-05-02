@@ -1,6 +1,6 @@
 # Wavelength
 
-To download, click green 'Code' button and click 'Download Zip'
+To download, click green 'Code' button and click 'Download ZIP'
 
 Wavelength is a multidisciplinary show featuring a live band, orchestra, and choir performing and synced up to a programmed light show using TouchDesigner and Chataigne.
 
